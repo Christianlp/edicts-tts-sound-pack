@@ -1,0 +1,146 @@
+{
+    "music.ocean": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "music/ocean",
+                "stream": "true"
+            }
+        ]
+    },
+    "music.plains": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/music/plains",
+                "stream": "true"
+            }
+        ]
+    },
+    "music.desert": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "music/desert",
+                "stream": "true"
+            }
+        ]
+    },
+    "music.mountains": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "music/mountains",
+                "stream": "true"
+            }
+        ]
+    },
+    "music.forest": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "music/forest",
+                "stream": "true"
+            }
+        ]
+    },
+    "music.taiga": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "music/taiga",
+                "stream": "true"
+            }
+        ]
+    },
+    "music.swamp": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "music/swamp",
+                "stream": "true"
+            }
+        ]
+    },
+    "music.nether": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "music/nether",
+                "stream": "true"
+            }
+        ]
+    },
+    "music.the_end": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "music/the_end",
+                "stream": "true"
+            }
+        ]
+    },
+    "music.mushroom_fields": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "music/mushroom_fields",
+                "stream": "true"
+            }
+        ]
+    },
+    "music.jungle": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "music/jungle",
+                "stream": "true"
+            }
+        ]
+    },
+    "music.savanna": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "music/savanna",
+                "stream": "true"
+            }
+        ]
+    },
+    "music.snowy": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "music/snowy",
+                "stream": "true"
+            }
+        ]
+    },
+    "music.dark_forest": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "music/dark_forest",
+                "stream": "true"
+            }
+        ]
+    },
+    "ambient.beach": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "ambient/beach",
+                "stream": "true"
+            }
+        ]
+    },
+    "ambient.forest": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "ambient/forest",
+                "stream": "true"
+            }
+        ]
+    }
+}
