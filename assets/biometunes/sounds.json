@@ -12,7 +12,7 @@
         "category": "music",
         "sounds": [
             {
-                "name": "sounds/music/plains",
+                "name": "music/plains",
                 "stream": "true"
             }
         ]
