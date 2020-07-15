@@ -1,15 +1,18 @@
 {
     "music.ocean": {
         "category": "music",
+        "subtitle": "BiomeTunes: Ocean soundtrack",
         "sounds": [
             {
                 "name": "music/ocean",
-                "stream": "true"
+                "stream": "true",
+                "volume": 1.5
             }
         ]
     },
     "music.plains": {
         "category": "music",
+        "subtitle": "BiomeTunes: Plains soundtrack",
         "sounds": [
             {
                 "name": "music/plains",
@@ -19,6 +22,7 @@
     },
     "music.desert": {
         "category": "music",
+        "subtitle": "BiomeTunes: Desert soundtrack",
         "sounds": [
             {
                 "name": "music/desert",
@@ -28,6 +32,7 @@
     },
     "music.mountains": {
         "category": "music",
+        "subtitle": "BiomeTunes: Mountains soundtrack",
         "sounds": [
             {
                 "name": "music/mountains",
@@ -37,6 +42,7 @@
     },
     "music.forest": {
         "category": "music",
+        "subtitle": "BiomeTunes: Forest soundtrack",
         "sounds": [
             {
                 "name": "music/forest",
@@ -46,6 +52,7 @@
     },
     "music.taiga": {
         "category": "music",
+        "subtitle": "BiomeTunes: Taiga soundtrack",
         "sounds": [
             {
                 "name": "music/taiga",
@@ -55,6 +62,7 @@
     },
     "music.swamp": {
         "category": "music",
+        "subtitle": "BiomeTunes: Swamp soundtrack",
         "sounds": [
             {
                 "name": "music/swamp",
@@ -64,6 +72,7 @@
     },
     "music.nether": {
         "category": "music",
+        "subtitle": "BiomeTunes: Nether soundtrack",
         "sounds": [
             {
                 "name": "music/nether",
@@ -73,6 +82,7 @@
     },
     "music.the_end": {
         "category": "music",
+        "subtitle": "BiomeTunes: End soundtrack",
         "sounds": [
             {
                 "name": "music/the_end",
@@ -82,6 +92,7 @@
     },
     "music.mushroom_fields": {
         "category": "music",
+        "subtitle": "BiomeTunes: Mushroom fields soundtrack",
         "sounds": [
             {
                 "name": "music/mushroom_fields",
@@ -91,6 +102,7 @@
     },
     "music.jungle": {
         "category": "music",
+        "subtitle": "BiomeTunes: Jungle soundtrack",
         "sounds": [
             {
                 "name": "music/jungle",
@@ -100,6 +112,7 @@
     },
     "music.savanna": {
         "category": "music",
+        "subtitle": "BiomeTunes: Savanna soundtrack",
         "sounds": [
             {
                 "name": "music/savanna",
@@ -109,6 +122,7 @@
     },
     "music.snowy": {
         "category": "music",
+        "subtitle": "BiomeTunes: Snowy soundtrack",
         "sounds": [
             {
                 "name": "music/snowy",
@@ -118,6 +132,7 @@
     },
     "music.dark_forest": {
         "category": "music",
+        "subtitle": "BiomeTunes: Dark forest soundtrack",
         "sounds": [
             {
                 "name": "music/dark_forest",
@@ -127,6 +142,7 @@
     },
     "ambient.beach": {
         "category": "ambient",
+        "subtitle": "BiomeTunes: Beach ambient",
         "sounds": [
             {
                 "name": "ambient/beach",
@@ -136,6 +152,7 @@
     },
     "ambient.forest": {
         "category": "ambient",
+        "subtitle": "BiomeTunes: Forest soundtrack",
         "sounds": [
             {
                 "name": "ambient/forest",
