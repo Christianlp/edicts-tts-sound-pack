@@ -50,6 +50,16 @@
             }
         ]
     },
+    "music.birch_forest": {
+        "category": "music",
+        "subtitle": "BiomeTunes: Birch Forest soundtrack",
+        "sounds": [
+            {
+                "name": "music/birch_forest",
+                "stream": "true"
+            }
+        ]
+    },
     "music.taiga": {
         "category": "music",
         "subtitle": "BiomeTunes: Taiga soundtrack",
