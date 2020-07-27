@@ -125,6 +125,15 @@
             }
         ]
     },
+    "music.ender_dragon": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "music/ender_dragon",
+                "stream": "true"
+            }
+        ]
+    },
     "ambient.beach": {
         "category": "ambient",
         "sounds": [
