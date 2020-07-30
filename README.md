@@ -15,9 +15,17 @@ Social media: [instagram](https://www.instagram.com/abefrato/)
 **Creator of the following tracks:**
 * Plains
 * The end
+* Mountains
+* Dark forest
+* Birch forest
 
 #### Martin Ryberg Laude - Mar01
 Social media: [website](https://www.martinryberglaude.com)  
 **Creator of the following tracks:**
 * Desert
 * Ocean
+
+#### Zacharias Frato - Taraneas
+**Creator of the following tracks:**
+* Savanna
+* Enderdragnon boss fight
