@@ -28,4 +28,4 @@ Social media: [website](https://www.martinryberglaude.com)
 #### Zacharias Frato - Taraneas
 **Creator of the following tracks:**
 * Savanna
-* Enderdragnon boss fight
+* Enderdragon boss fight
