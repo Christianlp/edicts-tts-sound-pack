@@ -139,7 +139,17 @@
                 "stream": "true"
             }
         ]
-    },
+	},
+	"music.snowy_ocean": {
+		"category": "music",
+		"subtitle": "BiomeTunes: Snowy ocean soundtrack",
+		"sounds": [
+			{
+				"name": "music/snowy_ocean",
+				"stream": "true"
+			}
+		]
+	},
     "music.dark_forest": {
         "category": "music",
         "subtitle": "BiomeTunes: Dark forest soundtrack",
