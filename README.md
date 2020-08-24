@@ -33,3 +33,11 @@ Social media: [website](https://www.martinryberglaude.com)
 * Enderdragon boss fight
 * Beach (ambient)
 * Jungle
+
+#### Arman Aspromonti
+**Creator of the following tracks:**
+* Warm ocean
+
+#### Edit - Edito1
+**Creator of the following tracks:**
+* Flower forest
