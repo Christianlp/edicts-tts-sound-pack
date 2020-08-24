@@ -9,7 +9,17 @@
                 "volume": 1.5
             }
         ]
-    },
+	},
+	"music.warm_ocean": {
+		"category":"music",
+		"subtitle": "BiomeTunes: Warm ocean soundtrack",
+		"sounds": [
+			{
+				"name": "music/warm_ocean",
+				"stream": "true"
+			}
+		]
+	},
     "music.plains": {
         "category": "music",
         "subtitle": "BiomeTunes: Plains soundtrack",
@@ -49,7 +59,17 @@
                 "stream": "true"
             }
         ]
-    },
+	},
+	"music.flower_forest": {
+		"category": "music",
+		"subtitle": "BiomeTunes: Flower Forest soundtrack",
+		"sounds": [
+			{
+				"name": "music/flower_forest",
+				"stream": "true"
+			}
+		]
+	},
     "music.birch_forest": {
         "category": "music",
         "subtitle": "BiomeTunes: Birch Forest soundtrack",
