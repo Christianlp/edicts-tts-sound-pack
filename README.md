@@ -31,3 +31,5 @@ Social media: [website](https://www.martinryberglaude.com)
 **Creator of the following tracks:**
 * Savanna
 * Enderdragon boss fight
+* Beach (ambient)
+* Jungle
