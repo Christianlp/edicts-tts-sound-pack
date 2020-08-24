@@ -35,6 +35,7 @@ Social media: [website](https://www.martinryberglaude.com)
 * Jungle
 
 #### Arman Aspromonti
+Social media: [YouTube](https://www.youtube.com/channel/UCMDc6vj6B8c7RqOEOfl4Uhg?)  
 **Creator of the following tracks:**
 * Warm ocean
 
