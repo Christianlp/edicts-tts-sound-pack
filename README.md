@@ -40,5 +40,6 @@ Social media: [YouTube](https://www.youtube.com/channel/UCMDc6vj6B8c7RqOEOfl4Uhg
 * Warm ocean
 
 #### Edit Lundström - Edito1
+Social media: [Facebook](https://www.facebook.com/profile.php?id=100010086510387)  
 **Creator of the following tracks:**
 * Flower forest
